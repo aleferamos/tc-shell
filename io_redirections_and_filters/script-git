@@ -1,5 +1,4 @@
 #!/bin/bash
-chmod u+x $NAMESCRIPT
 git add .
 git commit -m "at"
 git push
