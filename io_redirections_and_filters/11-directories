@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rl $pasta | egrep -c "^d"
+ls -Rl | egrep -c "^d"
