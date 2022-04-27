@@ -2,4 +2,3 @@
 git add .
 git commit -m "at"
 git push
-echo "alefek159"
